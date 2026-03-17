@@ -1,0 +1,48 @@
+site,sector,pattern,severity,ui_text,remediated_text,changed,report_date
+booking_com,travel,Urgency / Scarcity,High,Only 2 rooms left at this price!,2 rooms available,1,2026-03-18
+booking_com,travel,Urgency / Scarcity,High,Deal expires in 00:14:32 book now,Deal expires in today book now,1,2026-03-18
+booking_com,travel,Confirmshaming,Medium,No thanks I hate saving money,No thanks saving money,1,2026-03-18
+booking_com,travel,Hidden Costs,High,Taxes and fees added at checkout,Taxes and fees added at checkout,0,2026-03-18
+booking_com,travel,Urgency / Scarcity,High,8 people are looking at this right now,8 people are looking at this right now,0,2026-03-18
+expedia,travel,Urgency / Scarcity,High,Last room available at this rate,Last room available at this rate,0,2026-03-18
+expedia,travel,Hidden Costs,High,Price shown excludes taxes and service fees,price shown with taxes and service fees,1,2026-03-18
+expedia,travel,Confirmshaming,Medium,No I prefer to pay full price,No thanks,1,2026-03-18
+expedia,travel,Urgency / Scarcity,High,Hurry Only 1 ticket left at this fare,Only 1 ticket left at this fare,1,2026-03-18
+amazon,retail,Urgency / Scarcity,High,Only 3 left in stock order soon,3 left available,1,2026-03-18
+amazon,retail,Trick Questions,Medium,Subscribe to Amazon Prime pre-selected,Subscribe to Amazon Prime pre-selected,0,2026-03-18
+amazon,retail,Trick Questions,Medium,Add protection plan Rs.499 already checked,Add protection plan Rs.499 already checked,0,2026-03-18
+amazon,retail,Hidden Costs,High,Delivery charges calculated at checkout,Delivery charges calculated at checkout,0,2026-03-18
+amazon,retail,Urgency / Scarcity,High,Limited time deal ends today,Limited time deal ends today,0,2026-03-18
+flipkart,retail,Urgency / Scarcity,High,Only 2 items left buy now,2 items available,1,2026-03-18
+flipkart,retail,Hidden Costs,High,Convenience fee Rs.49 added at payment step,Convenience fee Rs.49 added at payment step,0,2026-03-18
+flipkart,retail,Confirmshaming,Medium,No thanks I dont want free delivery,No thanks free delivery,1,2026-03-18
+flipkart,retail,Trick Questions,Medium,Auto-renew enabled pre-checked,auto-renew off by default pre-checked,1,2026-03-18
+netflix,saas,Roach Motel,High,Cancel anytime requires 30-day written notice,Cancel anytime cancel anytime,1,2026-03-18
+netflix,saas,Confirmshaming,Medium,No thanks I dont want to save 50%,No thanks to save 50%,1,2026-03-18
+netflix,saas,Roach Motel,High,Continue to pay cancel by calling support only,Continue to pay cancel by calling support only,0,2026-03-18
+netflix,saas,Urgency / Scarcity,High,Upgrade now limited offer expires at midnight,Upgrade now limited offer expires at midnight,0,2026-03-18
+hotstar,saas,Confirmshaming,Medium,No thanks I dont want premium content,No thanks premium content,1,2026-03-18
+hotstar,saas,Roach Motel,High,Cancel subscription by calling helpline,Cancel subscription by calling helpline,0,2026-03-18
+swiggy,food,Urgency / Scarcity,High,Hurry Only 5 orders left at this price,Only 5 orders left at this price,1,2026-03-18
+swiggy,food,Hidden Costs,High,Delivery fee added at checkout,Delivery included in price,1,2026-03-18
+swiggy,food,Confirmshaming,Medium,No thanks Ill pay full price for food,No thanks Ill pay full price for food,0,2026-03-18
+zomato,food,Urgency / Scarcity,High,Only 3 restaurants left accepting orders,Only 3 restaurants left accepting orders,0,2026-03-18
+zomato,food,Hidden Costs,High,Convenience charges applied at payment,Convenience charges applied at payment,0,2026-03-18
+zomato,food,Trick Questions,Medium,Opt-out buried in settings,Opt-out buried in settings,0,2026-03-18
+myntra,retail,Urgency / Scarcity,High,Flash sale ends TODAY 80% off,Sale on selected items 80% off,1,2026-03-18
+myntra,retail,Confirmshaming,Medium,No thanks I dont want fashion deals,No thanks fashion deals,1,2026-03-18
+meesho,retail,Urgency / Scarcity,High,Only 1 left buy before its gone,1 left available,1,2026-03-18
+meesho,retail,Trick Questions,Medium,Auto-enroll in Meesho Super pre-selected,Auto-enroll in Meesho Super pre-selected,0,2026-03-18
+nykaa,retail,Confirmshaming,Medium,No thanks I prefer to pay more,No thanks I prefer to pay more,0,2026-03-18
+nykaa,retail,Urgency / Scarcity,High,Free gift offer expires in 00:30:00,Free gift offer expires in today,1,2026-03-18
+makemytrip,travel,Urgency / Scarcity,High,Only 2 seats left at this fare,2 seats available,1,2026-03-18
+makemytrip,travel,Hidden Costs,High,Taxes and fees not included in shown price,Taxes and fees not included in shown price,0,2026-03-18
+makemytrip,travel,Roach Motel,High,Cancel trip insurance requires calling helpline,Cancel trip insurance requires calling helpline,0,2026-03-18
+cleartrip,travel,Urgency / Scarcity,High,Hurry Price increases in 00:10:00,Price increases in today,1,2026-03-18
+cleartrip,travel,Hidden Costs,High,Service fee added at payment step,Service fee added at payment step,0,2026-03-18
+bigbasket,retail,Confirmshaming,Medium,No thanks I dont want fresh produce deals,No thanks fresh produce deals,1,2026-03-18
+bigbasket,retail,Hidden Costs,High,Convenience fee Rs.29 added at checkout,Convenience fee Rs.29 added at checkout,0,2026-03-18
+ajio,retail,Urgency / Scarcity,High,Flash sale only 4 items remaining,Flash sale 4 items available,1,2026-03-18
+ajio,retail,Confirmshaming,Medium,No thanks I dont want style deals,No thanks style deals,1,2026-03-18
+amazon,retail,Hidden Costs,High,Handling charges added at checkout,Handling charges added at checkout,0,2026-03-18
+flipkart,retail,Confirmshaming,Medium,No thanks I dont want this offer,No thanks this offer,1,2026-03-18
