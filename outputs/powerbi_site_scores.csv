@@ -1,0 +1,16 @@
+site,sector,raw_score,urgency_count,confirmshaming_count,hidden_costs_count,trick_question_count,roach_motel_count,misdirection_count,dark_score,risk_level,report_date
+amazon,retail,12.0,2,0,2,2,0,0,100.0,High,2026-03-18
+flipkart,retail,10.0,1,2,1,1,0,0,83.3,High,2026-03-18
+netflix,saas,9.5,1,1,0,0,2,0,79.2,High,2026-03-18
+booking_com,travel,9.0,3,1,1,0,0,0,75.0,High,2026-03-18
+expedia,travel,7.5,2,1,1,0,0,0,62.5,High,2026-03-18
+makemytrip,travel,7.0,1,0,1,0,1,0,58.3,Medium,2026-03-18
+swiggy,food,6.0,1,1,1,0,0,0,50.0,Medium,2026-03-18
+zomato,food,6.0,1,0,1,1,0,0,50.0,Medium,2026-03-18
+hotstar,saas,5.0,0,1,0,0,1,0,41.7,Medium,2026-03-18
+bigbasket,retail,4.5,0,1,1,0,0,0,37.5,Medium,2026-03-18
+cleartrip,travel,4.0,1,0,1,0,0,0,33.3,Medium,2026-03-18
+ajio,retail,3.5,1,1,0,0,0,0,29.2,Low,2026-03-18
+meesho,retail,3.5,1,0,0,1,0,0,29.2,Low,2026-03-18
+myntra,retail,3.5,1,1,0,0,0,0,29.2,Low,2026-03-18
+nykaa,retail,3.5,1,1,0,0,0,0,29.2,Low,2026-03-18

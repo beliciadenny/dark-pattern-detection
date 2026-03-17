@@ -1,0 +1,48 @@
+site,sector,ui_text,pattern,severity,dsa,ftc,report_date
+booking_com,travel,Only 2 rooms left at this price!,Urgency / Scarcity,High,Article 25(1)(a),FTC 2022 — False urgency,2026-03-18
+booking_com,travel,Deal expires in 00:14:32 book now,Urgency / Scarcity,High,Article 25(1)(a),FTC 2022 — False urgency,2026-03-18
+booking_com,travel,No thanks I hate saving money,Confirmshaming,Medium,Article 25(1)(b),FTC 2022 — Manipulative opt-outs,2026-03-18
+booking_com,travel,Taxes and fees added at checkout,Hidden Costs,High,Article 25(1)(c),FTC Act Section 5,2026-03-18
+booking_com,travel,8 people are looking at this right now,Urgency / Scarcity,High,Article 25(1)(a),FTC 2022 — False urgency,2026-03-18
+expedia,travel,Last room available at this rate,Urgency / Scarcity,High,Article 25(1)(a),FTC 2022 — False urgency,2026-03-18
+expedia,travel,Price shown excludes taxes and service fees,Hidden Costs,High,Article 25(1)(c),FTC Act Section 5,2026-03-18
+expedia,travel,No I prefer to pay full price,Confirmshaming,Medium,Article 25(1)(b),FTC 2022 — Manipulative opt-outs,2026-03-18
+expedia,travel,Hurry Only 1 ticket left at this fare,Urgency / Scarcity,High,Article 25(1)(a),FTC 2022 — False urgency,2026-03-18
+amazon,retail,Only 3 left in stock order soon,Urgency / Scarcity,High,Article 25(1)(a),FTC 2022 — False urgency,2026-03-18
+amazon,retail,Subscribe to Amazon Prime pre-selected,Trick Questions,Medium,Article 25(1)(a),FTC 2022 — Pre-checked boxes,2026-03-18
+amazon,retail,Add protection plan Rs.499 already checked,Trick Questions,Medium,Article 25(1)(a),FTC 2022 — Pre-checked boxes,2026-03-18
+amazon,retail,Delivery charges calculated at checkout,Hidden Costs,High,Article 25(1)(c),FTC Act Section 5,2026-03-18
+amazon,retail,Limited time deal ends today,Urgency / Scarcity,High,Article 25(1)(a),FTC 2022 — False urgency,2026-03-18
+flipkart,retail,Only 2 items left buy now,Urgency / Scarcity,High,Article 25(1)(a),FTC 2022 — False urgency,2026-03-18
+flipkart,retail,Convenience fee Rs.49 added at payment step,Hidden Costs,High,Article 25(1)(c),FTC Act Section 5,2026-03-18
+flipkart,retail,No thanks I dont want free delivery,Confirmshaming,Medium,Article 25(1)(b),FTC 2022 — Manipulative opt-outs,2026-03-18
+flipkart,retail,Auto-renew enabled pre-checked,Trick Questions,Medium,Article 25(1)(a),FTC 2022 — Pre-checked boxes,2026-03-18
+netflix,saas,Cancel anytime requires 30-day written notice,Roach Motel,High,Article 25(1)(c),FTC Click-to-Cancel Rule 2024,2026-03-18
+netflix,saas,No thanks I dont want to save 50%,Confirmshaming,Medium,Article 25(1)(b),FTC 2022 — Manipulative opt-outs,2026-03-18
+netflix,saas,Continue to pay cancel by calling support only,Roach Motel,High,Article 25(1)(c),FTC Click-to-Cancel Rule 2024,2026-03-18
+netflix,saas,Upgrade now limited offer expires at midnight,Urgency / Scarcity,High,Article 25(1)(a),FTC 2022 — False urgency,2026-03-18
+hotstar,saas,No thanks I dont want premium content,Confirmshaming,Medium,Article 25(1)(b),FTC 2022 — Manipulative opt-outs,2026-03-18
+hotstar,saas,Cancel subscription by calling helpline,Roach Motel,High,Article 25(1)(c),FTC Click-to-Cancel Rule 2024,2026-03-18
+swiggy,food,Hurry Only 5 orders left at this price,Urgency / Scarcity,High,Article 25(1)(a),FTC 2022 — False urgency,2026-03-18
+swiggy,food,Delivery fee added at checkout,Hidden Costs,High,Article 25(1)(c),FTC Act Section 5,2026-03-18
+swiggy,food,No thanks Ill pay full price for food,Confirmshaming,Medium,Article 25(1)(b),FTC 2022 — Manipulative opt-outs,2026-03-18
+zomato,food,Only 3 restaurants left accepting orders,Urgency / Scarcity,High,Article 25(1)(a),FTC 2022 — False urgency,2026-03-18
+zomato,food,Convenience charges applied at payment,Hidden Costs,High,Article 25(1)(c),FTC Act Section 5,2026-03-18
+zomato,food,Opt-out buried in settings,Trick Questions,Medium,Article 25(1)(a),FTC 2022 — Pre-checked boxes,2026-03-18
+myntra,retail,Flash sale ends TODAY 80% off,Urgency / Scarcity,High,Article 25(1)(a),FTC 2022 — False urgency,2026-03-18
+myntra,retail,No thanks I dont want fashion deals,Confirmshaming,Medium,Article 25(1)(b),FTC 2022 — Manipulative opt-outs,2026-03-18
+meesho,retail,Only 1 left buy before its gone,Urgency / Scarcity,High,Article 25(1)(a),FTC 2022 — False urgency,2026-03-18
+meesho,retail,Auto-enroll in Meesho Super pre-selected,Trick Questions,Medium,Article 25(1)(a),FTC 2022 — Pre-checked boxes,2026-03-18
+nykaa,retail,No thanks I prefer to pay more,Confirmshaming,Medium,Article 25(1)(b),FTC 2022 — Manipulative opt-outs,2026-03-18
+nykaa,retail,Free gift offer expires in 00:30:00,Urgency / Scarcity,High,Article 25(1)(a),FTC 2022 — False urgency,2026-03-18
+makemytrip,travel,Only 2 seats left at this fare,Urgency / Scarcity,High,Article 25(1)(a),FTC 2022 — False urgency,2026-03-18
+makemytrip,travel,Taxes and fees not included in shown price,Hidden Costs,High,Article 25(1)(c),FTC Act Section 5,2026-03-18
+makemytrip,travel,Cancel trip insurance requires calling helpline,Roach Motel,High,Article 25(1)(c),FTC Click-to-Cancel Rule 2024,2026-03-18
+cleartrip,travel,Hurry Price increases in 00:10:00,Urgency / Scarcity,High,Article 25(1)(a),FTC 2022 — False urgency,2026-03-18
+cleartrip,travel,Service fee added at payment step,Hidden Costs,High,Article 25(1)(c),FTC Act Section 5,2026-03-18
+bigbasket,retail,No thanks I dont want fresh produce deals,Confirmshaming,Medium,Article 25(1)(b),FTC 2022 — Manipulative opt-outs,2026-03-18
+bigbasket,retail,Convenience fee Rs.29 added at checkout,Hidden Costs,High,Article 25(1)(c),FTC Act Section 5,2026-03-18
+ajio,retail,Flash sale only 4 items remaining,Urgency / Scarcity,High,Article 25(1)(a),FTC 2022 — False urgency,2026-03-18
+ajio,retail,No thanks I dont want style deals,Confirmshaming,Medium,Article 25(1)(b),FTC 2022 — Manipulative opt-outs,2026-03-18
+amazon,retail,Handling charges added at checkout,Hidden Costs,High,Article 25(1)(c),FTC Act Section 5,2026-03-18
+flipkart,retail,No thanks I dont want this offer,Confirmshaming,Medium,Article 25(1)(b),FTC 2022 — Manipulative opt-outs,2026-03-18
