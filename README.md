@@ -22,7 +22,7 @@ Python · Playwright · XGBoost · SHAP · TF-IDF · Pandas · Matplotlib · Pow
 ```bash
 pip install -r requirements.txt
 playwright install chromium
-jupyter notebook notebook/dark_pattern_final.ipynb
+jupyter notebook notebook/dark_pattern_detection_v3.ipynb
 ```
 
 ## Dashboard
